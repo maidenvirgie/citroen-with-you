@@ -110,7 +110,7 @@
     
 }
 .section-right p{
-    font-family: "citroenBold";
+    font-family: "PT sans";
     text-align: justify;
     color: #bbbbbb;
     font-size: 18px;
@@ -217,6 +217,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    margin: 0% 20%;
 }
 
 
@@ -235,9 +236,9 @@
     font-weight: 800;
     font-size: 26px;
     font-family: "citroenBold";
-    letter-spacing: 4px;
+    letter-spacing: 3px;
     text-align: center;
-    padding: 0.5% 4.5%;
+    padding: 0.5% 20.5%;
     border: 2px solid red;
     border-radius: 46px;
 }
@@ -366,7 +367,7 @@
 }
 
 .legal p{
-    font-family: "CitroenBold";
+    font-family: "PT sans";
     padding: 0% 16%;
     color: #848484;
     font-size: 12px;
